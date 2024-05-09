@@ -1,2 +1,2 @@
 # practice_aws
-aws 연
+aws 연습
